@@ -2,27 +2,6 @@
 <items version="2" >
 
     <item
-        jar="C:\Users\joshg\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
-        <dex dex="C:\Users\joshg\AndroidStudioProjects\Pirate-Spanish Free\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.0-9ed61d012a5c2391424786810c6c34fdec6d97c6.jar" />
-    </item>
-    <item
-        jar="C:\Users\joshg\AndroidStudioProjects\Pirate-Spanish Free\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
-        <dex dex="C:\Users\joshg\AndroidStudioProjects\Pirate-Spanish Free\app\build\intermediates\pre-dexed\debug\classes-c2905f9667c9070df9831d3b428fb9f3ac35850a.jar" />
-    </item>
-    <item
-        jar="C:\Users\joshg\AndroidStudioProjects\Pirate-Spanish Free\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\jars\classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
-        <dex dex="C:\Users\joshg\AndroidStudioProjects\Pirate-Spanish Free\app\build\intermediates\pre-dexed\debug\classes-8f5987293962b6f170dde1bebb19ceebdf7f9e7c.jar" />
-    </item>
-    <item
         jar="C:\Users\joshg\AndroidStudioProjects\Pirate-Spanish Free\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
         jumboMode="false"
         revision="21.1.2"
@@ -42,6 +21,27 @@
         revision="21.1.2"
         sha1="b5e7892fb0708e792e0e933c4c0a0ca0ac7831fb">
         <dex dex="C:\Users\joshg\AndroidStudioProjects\Pirate-Spanish Free\app\build\intermediates\pre-dexed\debug\classes-007872d3168d353bfeac07ada05ecf51541586a9.jar" />
+    </item>
+    <item
+        jar="C:\Users\joshg\AndroidStudioProjects\Pirate-Spanish Free\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="C:\Users\joshg\AndroidStudioProjects\Pirate-Spanish Free\app\build\intermediates\pre-dexed\debug\classes-c2905f9667c9070df9831d3b428fb9f3ac35850a.jar" />
+    </item>
+    <item
+        jar="C:\Users\joshg\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="C:\Users\joshg\AndroidStudioProjects\Pirate-Spanish Free\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.0-9ed61d012a5c2391424786810c6c34fdec6d97c6.jar" />
+    </item>
+    <item
+        jar="C:\Users\joshg\AndroidStudioProjects\Pirate-Spanish Free\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="C:\Users\joshg\AndroidStudioProjects\Pirate-Spanish Free\app\build\intermediates\pre-dexed\debug\classes-8f5987293962b6f170dde1bebb19ceebdf7f9e7c.jar" />
     </item>
 
 </items>
