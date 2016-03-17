@@ -187,7 +187,6 @@ public class questsActivity extends MainActivity{
     }
 
     //Checks for mobile or wifi connectivity, returns true for connected, false otherwise
-    //Checks for mobile or wifi connectivity, returns true for connected, false otherwise
     private boolean isConnected() {
         ConnectivityManager connectivityManager = (ConnectivityManager) getSystemService(Context.CONNECTIVITY_SERVICE);
         NetworkInfo networkInfo = connectivityManager.getActiveNetworkInfo();
