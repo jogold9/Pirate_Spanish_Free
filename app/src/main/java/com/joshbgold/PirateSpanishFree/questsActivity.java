@@ -144,7 +144,7 @@ public class questsActivity extends MainActivity{
         //get user rank
         rank = LoadPreferences("UserRank", rank);
 
-        if (rank == 5){  //Free version does not allow user to access further content
+        if (rank == 6){  //Free version does not allow user to access further content
             AlertDialog.Builder builder = new AlertDialog.Builder(this);
             builder.setTitle("Pirate Spanish")
                     .setIcon(R.mipmap.icon)

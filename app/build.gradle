@@ -8,8 +8,8 @@ android {
         applicationId "com.joshbgold.PirateSpanishFree"
         minSdkVersion 14
         targetSdkVersion 21
-        versionCode 12
-        versionName "2.8"
+        versionCode 14
+        versionName "3.0"
     }
     buildTypes {
         release {
