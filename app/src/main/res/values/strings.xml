@@ -1,0 +1,8 @@
+<resources>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">Pirate Spanish</string>
+    <string name="banner_ad">ca-app-pub-0656715282551471/1930292264</string>
+    <string name="banner_ad_test">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="captain_retirement">Ye earned a boatload of pieces of Eight and survived nine voyages. Ye worked yer way up from Powder Monkey to Captain! Now yer going back to mother Spain to enjoy your riches, and watch a few more sunsets.</string>
+    <string name="hello_world">Hello world!</string>
+</resources>
